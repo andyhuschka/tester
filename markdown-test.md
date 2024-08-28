@@ -11,3 +11,21 @@ dsjlsdvkdsjlkvj
 xcvjxvjxlkv
 
 ### Heading 3
+
+_____________________________________
+
+
+# Andy's Profile
+
+- My programming languages
+  - C#
+  - JavaScript
+  - CSS
+_____________________________________ 
+
+
+# Groceries
+
+- [ ] Sweets
+- [ ] Wine
+- [x] Bananas
